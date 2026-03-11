@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Assignment checks",
+      "setup": "",
+      "run": "python scripts/check_assignment.py",
+      "input": "",
+      "output": "RESULT: PASS",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 100
+    }
+  ]
+}
